@@ -1,0 +1,3 @@
+﻿  Task 34.cpp
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 34\Task 34.cpp(13,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task 34.vcxproj -> C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 34\x64\Debug\Task 34.exe
