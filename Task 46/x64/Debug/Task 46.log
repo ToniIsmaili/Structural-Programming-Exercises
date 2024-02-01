@@ -1,0 +1,3 @@
+﻿  Task 46.cpp
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 46\Task 46.cpp(16,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task 46.vcxproj -> C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 46\x64\Debug\Task 46.exe
