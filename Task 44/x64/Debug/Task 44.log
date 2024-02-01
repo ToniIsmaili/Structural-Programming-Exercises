@@ -1,0 +1,5 @@
+﻿  Task 44.cpp
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 44\Task 44.cpp(7,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 44\Task 44.cpp(15,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 44\Task 44.cpp(20,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task 44.vcxproj -> C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 44\x64\Debug\Task 44.exe
