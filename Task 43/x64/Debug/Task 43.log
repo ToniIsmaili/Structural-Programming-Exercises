@@ -1,0 +1,3 @@
+﻿  Task 43.cpp
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 43\Task 43.cpp(12,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Task 43.vcxproj -> C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Task 43\x64\Debug\Task 43.exe
