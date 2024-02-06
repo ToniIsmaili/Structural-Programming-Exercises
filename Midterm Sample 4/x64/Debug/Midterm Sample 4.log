@@ -1,0 +1,4 @@
+﻿  Midterm Sample 4.cpp
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Midterm Sample 4\Midterm Sample 4.cpp(8,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Midterm Sample 4\Midterm Sample 4.cpp(33,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Midterm Sample 4.vcxproj -> C:\Users\Toni\Documents\GitHub\Structural Programming Exercises\Midterm Sample 4\x64\Debug\Midterm Sample 4.exe
